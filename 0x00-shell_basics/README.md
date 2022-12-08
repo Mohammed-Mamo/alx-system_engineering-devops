@@ -1,1 +1,1 @@
-SHELL BASICS
+this is SHELL BASICS projects
